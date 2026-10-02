@@ -1,4 +1,4 @@
-from juego_ahorcado import normalizar, enmascarar, ha_ganado
+from juego_ahorcado2 import normalizar, enmascarar, ha_ganado
 
 def test_normalizar():
     assert normalizar("Árbol") == "arbol"
